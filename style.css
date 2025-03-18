@@ -166,14 +166,14 @@ section {
 }
 .about-me {
     position: absolute;
-    left: 8%;
+    left: 6%;
     top: 135%;
     font-size: 20px;
 }
 .big-about {
     position: absolute;
     top: 110%;
-    left: 8%;
+    left: 6%;
     color: aliceblue;
     
 }
